@@ -1,0 +1,82 @@
+Student Id = 1200233
+Name = Matt Damon
+course = CS
+Phone Number = 790-3233
+
+
+Student Id = 1201237
+Name = Ben Affleck
+course = IA
+Phone Number = 432-4579
+
+
+Student Id = 1300899
+Name = Salma Hayek
+course = IB
+Phone Number = 790-0000
+
+
+Student Id = 1502378
+Name = Ken Wong
+course = CS
+Phone Number = 892-3765
+
+
+Student Id = 1603679
+Name = Ben Ma
+course = IB
+Phone Number = 693-2367
+
+
+Student Id = 1310983
+Name = Audrey Chan
+course = IA
+Phone Number = 521-3879
+
+
+Student Id = 1702451
+Name = Alicia Keys
+course = CN
+Phone Number = 834-2211
+
+
+Student Id = 1803674
+Name = Robert Downey
+course = CN
+Phone Number = 692-4410
+
+
+Student Id = 1750928
+Name = Michael Jordan
+course = CT
+Phone Number = 743-8992
+
+
+Student Id = 1654813
+Name = Natalie Portman
+course = CT
+Phone Number = 556-2387
+
+
+Student Id = 1902846
+Name = Chris Evans
+course = CN
+Phone Number = 801-7729
+
+
+Student Id = 1856732
+Name = Emma Watson
+course = CT
+Phone Number = 619-3452
+
+
+Student Id = 1603679
+Name = Ben Ma
+course = IB
+Phone Number = 693-2367
+
+
+Student Id = 1654813
+Name = Natalie Portman
+course = CT
+Phone Number = 556-2387

@@ -1,0 +1,68 @@
+1200233	 Nell_Dale/Daniel_Joyce Object-Oriented_Data_Structures_Using_Java Jones_&_Bartlett_Learning 1449613543 2011 QA76.58.M532 28/2/2020 10/3/2020
+
+1201237	 Tony_Gaddis/Godfrey_Muganda Starting_Out_with_Java Addison-Wesley 0321545869 2011 QA76.73.C153S26 25/2/2020  5/3/2020
+
+1200233	 Noel_Kalicharan Advanced_topics_in_C:_Core_Concepts_in_Data_Structures Apress 2361589071 2013 QA76.73.C15K35 20/2/2020  5/3/2020
+
+1502378	 Michael_T_Goodrich Data_Structures_and_Algorithms Wiley 1118771338 2014 QA76.9.D35G66 10/3/2020 30/3/2020
+
+1201237	 Sedgewick/Wayne Algorithms_4th_Edition Addison-Wesley 032157351X 2011 QA76.9.A43S33 10/2/2020 20/2/2020
+
+1502378	 Noel_Kalicharan Advanced_C_Concepts Apress 2361589071 2013 QA76.73.C15K35 20/3/2020 29/3/2020
+
+1603679	 Clifford_Stein Introduction_to_Algorithms MIT 0262033844 2009 QA76.6.T48 10/3/2020 25/3/2020
+
+1200233	 Walter_Savitch Problem_Solving_with_C++ Pearson 0134448781 2017 QA76.73.C15S23 1/3/2020 15/3/2020
+
+1603679	 Robert_Lafore Data_Structures_in_C++ Sams 0672324539 2002 QA76.73.C15L34 20/2/2020 10/3/2020
+
+1201237	 Bjarne_Stroustrup The_C++_Programming_Language Addison-Wesley 0321563840 2013 QA76.73.C153S77 26/2/2020  18/2/2020
+
+1603679	 Brian_Kernighan The_C_Programming_Language Prentice_Hall 0131103628 1988 QA76.73.C15K47 25/2/2020 12/3/2020
+
+1310983	 Nell_Dale C++_Plus_Data_Structures Jones_&_Bartlett 1449694253 2011 QA76.73.C15D25 18/3/2020 29/3/2020
+
+1603679	 Tony_Gaddis Starting_Out_with_C++ Addison-Wesley 0134498372 2018 QA76.73.C15G33 1/3/2020 18/3/2020
+
+1300899	 Mark_Weiss Data_Structures_and_Algorithm_Analysis Pearson 013284737X 2013 QA76.9.D35W45 15/3/2020 26/3/2020
+
+1300899 Nell_Dale/Daniel_Joyce Object-Oriented_Data_Structures_Using_Java Jones_&_Bartlett_Learning 1449613543 2011 QA76.58.M532 26/2/2020 12/3/2020
+
+1201237 Walter_Savitch Problem_Solving_with_C++ Pearson 0134448781 2017 QA76.73.C15S23 26/2/2020  18/2/2020
+
+1702451	 Andrew_S_Tanenbaum Computer_Networks Pearson 0132126958 2011 TK5105.5.T36 2/3/2020 15/3/2020
+
+1702451	 Behrouz_A_Forouzan Data_Communications_and_Networking McGraw-Hill 0073376221 2012 TK5105.F67 16/3/2020 28/3/2020
+
+1702451	 Kurose/Ross Computer_Networking:_A_Top-Down_Approach Addison-Wesley 0133594149 2017 TK5105.5.K87 29/3/2020 10/4/2020
+
+1803674	 Douglas_E_Comer Internetworking_with_TCP/IP Pearson 013608530X 2009 TK5105.5.C64 5/3/2020 20/3/2020
+
+1803674	 Larry_L_Peterson Computer_Networks:_A_Systems_Approach Morgan_Kaufmann 0123850592 2012 TK5105.5.P47 21/3/2020 3/3/2020
+
+1803674	 Radia_Perlman Interconnections Addison-Wesley 0201634481 2000 TK5105.5.P48 4/4/2020 15/2/2020
+
+1750928	 Stuart_Russell/Peter_Norvig Artificial_Intelligence:_A_Modern_Approach Pearson 0136042597 2010 Q335.R86 10/3/2020 25/2/2020
+
+1750928	 Ian_Goodfellow Deep_Learning MIT 0262035618 2016 Q325.5.G66 26/3/2020 8/4/2020
+
+1750928	 Richard_Sutton Reinforcement_Learning:_An_Introduction MIT 0262039249 2018 Q325.5.S88 9/4/2020 20/1/2020
+
+1654813	 Herbert_Schildt C#:_The_Complete_Reference McGraw-Hill 007174116X 2014 QA76.73.C154S35 12/3/2020 28/3/2020
+
+1654813	 Andrew_Troelsen Pro_C#_7_and_.NET_A_Deep_Dive Apress 1484230175 2018 QA76.73.C154T76 29/3/2020 10/4/2020
+
+1654813	 Joseph_Albahari C#_in_a_Nutshell O'Reilly 1492051135 2020 QA76.73.C154A43 11/4/2020 20/3/2020
+
+1902846	 William_Stallings Data_and_Computer_Communications Pearson 0133506487 2014 TK5105.S73 15/3/2020 30/3/2020
+
+1902846	 Andrew_S_Tanenbaum Modern_Operating_Systems Pearson 013359162X 2014 QA76.76.O63T36 31/3/2020 15/4/2020
+
+1902846	 David_A_Patterson Computer_Organization_and_Design Morgan_Kaufmann 0128122757 2017 QA76.9.C64P38 16/4/2020 1/5/2020
+
+1856732	 Thomas_H_Cormen Introduction_to_Algorithms MIT 0262033844 2009 QA76.6.T48 20/3/2020 5/3/2020
+
+1856732	 Mark_Guzdial Introduction_to_Computing_and_Programming_in_Python Pearson 0134025547 2015 QA76.73.P98G89 6/4/2020 1/2/2020
+
+1856732	 Allen_B_Downey Think_Python O'Reilly 1491939362 2015 QA76.73.P98D69 19/4/2020 3/3/2020
+
